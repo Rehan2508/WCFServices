@@ -1,0 +1,14 @@
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\bin\Debug\WindowsClient3.exe.config
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\bin\Debug\WindowsClient3.exe
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\bin\Debug\WindowsClient3.pdb
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\bin\Debug\MathServiceLibrary.dll
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\bin\Debug\MathServiceLibrary.pdb
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\bin\Debug\MathServiceLibrary.dll.config
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.Form1.resources
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.Properties.Resources.resources
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.csproj.GenerateResource.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.csproj.CopyComplete
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.exe
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.pdb
