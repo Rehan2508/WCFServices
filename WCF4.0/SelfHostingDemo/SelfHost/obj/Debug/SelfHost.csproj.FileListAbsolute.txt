@@ -1,0 +1,10 @@
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\SelfHost\bin\Debug\SelfHost.exe.config
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\SelfHost\bin\Debug\SelfHost.exe
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\SelfHost\bin\Debug\SelfHost.pdb
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\SelfHost\bin\Debug\MathServiceLibrary.dll
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\SelfHost\bin\Debug\MathServiceLibrary.pdb
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\SelfHost\bin\Debug\MathServiceLibrary.dll.config
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\SelfHost\obj\Debug\SelfHost.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\SelfHost\obj\Debug\SelfHost.csproj.CopyComplete
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\SelfHost\obj\Debug\SelfHost.exe
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\SelfHostingDemo\SelfHost\obj\Debug\SelfHost.pdb

@@ -1,0 +1,10 @@
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\WinformsClient\bin\Debug\WinformsClient.exe.config
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\WinformsClient\bin\Debug\WinformsClient.exe
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\WinformsClient\bin\Debug\WinformsClient.pdb
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.Form1.resources
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.Properties.Resources.resources
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.csproj.GenerateResource.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.exe
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\MathService\bin\MathService.dll.config
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\MathService\bin\MathService.dll
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\MathService\bin\MathService.pdb
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\MathService\obj\Debug\MathService.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\MathService\obj\Debug\MathService.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\MathService\obj\Debug\MathService.dll
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceApplication\MathServiceDemo\MathService\obj\Debug\MathService.pdb

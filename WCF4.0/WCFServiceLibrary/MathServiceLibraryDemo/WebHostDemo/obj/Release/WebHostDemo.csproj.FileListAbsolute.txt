@@ -1,0 +1,11 @@
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WebHostDemo\bin\WebHostDemo.dll.config
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WebHostDemo\bin\WebHostDemo.dll
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WebHostDemo\bin\WebHostDemo.pdb
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WebHostDemo\bin\MathServiceLibrary.dll
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WebHostDemo\bin\MathServiceLibrary.pdb
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WebHostDemo\bin\MathServiceLibrary.dll.config
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WebHostDemo\obj\Release\WebHostDemo.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WebHostDemo\obj\Release\WebHostDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WebHostDemo\obj\Release\WebHostDemo.csproj.CopyComplete
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WebHostDemo\obj\Release\WebHostDemo.dll
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WebHostDemo\obj\Release\WebHostDemo.pdb

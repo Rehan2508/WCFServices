@@ -1,0 +1,9 @@
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WinFormsClient\bin\Release\WinFormsClient.exe.config
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WinFormsClient\bin\Release\WinFormsClient.exe
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WinFormsClient\bin\Release\WinFormsClient.pdb
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WinFormsClient\obj\Release\WinFormsClient.Form1.resources
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WinFormsClient\obj\Release\WinFormsClient.Properties.Resources.resources
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WinFormsClient\obj\Release\WinFormsClient.csproj.GenerateResource.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WinFormsClient\obj\Release\WinFormsClient.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WinFormsClient\obj\Release\WinFormsClient.exe
+C:\Users\Rehan.Dilkash\Desktop\WCFServices\WCF4.0\WCFServiceLibrary\MathServiceLibraryDemo\WinFormsClient\obj\Release\WinFormsClient.pdb
